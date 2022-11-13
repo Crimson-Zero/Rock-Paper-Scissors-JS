@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+
+div{
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+    left: 40%;
+}
